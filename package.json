@@ -6,7 +6,7 @@
   "author": "Ashutosh Hathidara",
   "version": "1.0.0",
   "scripts": {
-    "build": "gatsby build",
+    "build": "npm install && gatsby build",
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "serve": "gatsby serve",
