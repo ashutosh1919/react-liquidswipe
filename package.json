@@ -1,0 +1,61 @@
+{
+  "private": true,
+  "name": "react-liquidswipe",
+  "description": "Apple Clay Devices Showcase",
+  "license": "MIT",
+  "author": "Ashutosh Hathidara",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@react-icons/all-files": "^4.1.0",
+    "@theme-ui/typography": "^0.3.5",
+    "gatsby": "^2.26.1",
+    "gatsby-image": "^2.8.0",
+    "gatsby-plugin-fontawesome-css": "^1.0.0",
+    "gatsby-plugin-google-analytics": "^2.8.0",
+    "gatsby-plugin-manifest": "^2.9.0",
+    "gatsby-plugin-offline": "^3.7.0",
+    "gatsby-plugin-react-helmet": "^3.7.0",
+    "gatsby-plugin-sharp": "^2.11.1",
+    "gatsby-plugin-sitemap": "^2.9.0",
+    "gatsby-plugin-theme-ui": "^0.3.5",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-filesystem": "^2.8.0",
+    "gatsby-transformer-json": "^2.8.0",
+    "gatsby-transformer-sharp": "^2.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-spring": "^8.0.27",
+    "react-use-gesture": "^9.0.0-beta.11",
+    "styled-components": "^5.2.1",
+    "theme-ui": "^0.3.5"
+  },
+  "devDependencies": {
+    "husky": "^4.3.6",
+    "lint-staged": "^10.5.3",
+    "prettier": "2.2.1",
+    "prettier-package-json": "^2.1.3"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.json": "prettier-package-json --write",
+    "*.{js,css,md}": "prettier --write"
+  }
+}

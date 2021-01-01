@@ -1,0 +1,21 @@
+@import "../static/fonts/fonts.css";
+
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "SF Pro Display Bold", "SF Pro Display Light",
+    "SF Pro Display Semibold", "SF Pro Display Thin", "SF Pro Display Medium";
+  margin: 0px;
+  padding: 0px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.react-icons {
+  vertical-align: middle;
+}

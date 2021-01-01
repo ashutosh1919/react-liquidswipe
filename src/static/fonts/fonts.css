@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "SF Pro Display Bold";
+  src: local("SF Pro Display Bold"),
+    url("SF-Pro-Display-Bold.otf") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display Medium";
+  src: local("SF Pro Display Medium"),
+    url("SF-Pro-Display-Medium.otf") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display Light";
+  src: local("SF Pro Display Light"),
+    url("SF-Pro-Display-Light.otf") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display Semibold";
+  src: local("SF Pro Display Semibold"),
+    url("SF-Pro-Display-Semibold.otf") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display Thin";
+  src: local("SF Pro Display Thin"),
+    url("SF-Pro-Display-Thin.otf") format("woff");
+}
