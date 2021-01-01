@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Apple Clay Devices Showcase",
+    siteUrl: "https://liquidswipe.netlify.app",
   },
   plugins: [
     {

@@ -2,8 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useSpring, animated, interpolate } from "react-spring";
 import { useDrag } from "react-use-gesture";
 import styled from "styled-components";
-import { DevicePage } from "./devicepage";
-import { Colors } from "./colors";
+import window from "global";
 
 const Container = styled.div`
   width: 100vw;
