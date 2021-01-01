@@ -26,3 +26,5 @@
     <img src="src/images/demo.gif"></img>
   </a>
 </p>
+
+:star: Star us on GitHub — it helps!
