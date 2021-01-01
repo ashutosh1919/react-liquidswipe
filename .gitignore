@@ -8,6 +8,7 @@
 /.pnp
 /build
 package-lock.json
+/public
 
 # User-specific files
 *.rsuser
