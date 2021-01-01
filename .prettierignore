@@ -4,4 +4,4 @@ public
 node_modules
 .cache
 package*.json
-src/data/*
+src/data/pagesData.json
