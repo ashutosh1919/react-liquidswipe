@@ -1,0 +1,172 @@
+{
+  "componentChunkName": "component---src-pages-index-js",
+  "path": "/",
+  "result": {
+    "data": {
+      "allPagesDataJson": {
+        "edges": [
+          {
+            "node": {
+              "title": "Apple Watch SE",
+              "subtitle": "Heavy on features. Light in price.",
+              "buttonLink": "https://www.apple.com/in/apple-watch-se/",
+              "buttonText": "What's New",
+              "caption": "An expansive Retina display so you can see more at a glance. Advanced sensors to track all the ways you move. Powerful features to keep you healthy and safe. Apple Watch SE is a lot of watch for a lot less than you expected.",
+              "id": "watch",
+              "imageOriginalName": "watch.png"
+            }
+          },
+          {
+            "node": {
+              "title": "Apple iPhone 12",
+              "subtitle": "Blast past fast.",
+              "buttonLink": "https://www.apple.com/in/iphone-12/",
+              "buttonText": "What's New",
+              "caption": "A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.",
+              "id": "iphone",
+              "imageOriginalName": "iphone.png"
+            }
+          },
+          {
+            "node": {
+              "title": "Apple iPad Pro",
+              "subtitle": "Magical piece of glass.",
+              "buttonLink": "https://www.apple.com/in/ipad-pro/",
+              "buttonText": "What's New",
+              "caption": "It’s so fast most PC laptops can’t catch up. It has pro cameras that can transform reality. And you can use it with touch, pencil, keyboard and now trackpad. It’s the new iPad Pro.",
+              "id": "ipad",
+              "imageOriginalName": "ipad.png"
+            }
+          },
+          {
+            "node": {
+              "title": "MacBook Pro",
+              "subtitle": "Small chip. Giant leap.",
+              "buttonLink": "https://www.apple.com/in/macbook-pro-13/",
+              "buttonText": "What's New",
+              "caption": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. Our most advanced Neural Engine for up to 11x faster machine learning.",
+              "id": "mac",
+              "imageOriginalName": "mac.png"
+            }
+          },
+          {
+            "node": {
+              "title": "Magic Mouse",
+              "subtitle": "Small size. Amazing outcome.",
+              "buttonLink": "https://www.apple.com/in/shop/product/MLA02ZM/A/magic-mouse-2-silver",
+              "buttonText": "What's New",
+              "caption": "Magic Mouse 2 is completely rechargeable, so you’ll eliminate the use of traditional batteries. It’s lighter, has fewer moving parts thanks to its built-in battery and continuous bottom shell.",
+              "id": "mouse",
+              "imageOriginalName": "mouse.png"
+            }
+          },
+          {
+            "node": {
+              "title": "Apple Airpods",
+              "subtitle": "Magic runs in the family.",
+              "buttonLink": "https://www.apple.com/in/airpods/",
+              "buttonText": "What's New",
+              "caption": "AirPods deliver an unparalleled listening experience with all your devices. Every model connects effortlessly and packs rich, high-quality sound into an innovative wireless design.",
+              "id": "airpod",
+              "imageOriginalName": "airpod.png"
+            }
+          }
+        ]
+      },
+      "allImageSharp": {
+        "edges": [
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/fbc521ce56d493172bb37f243b4d3e74/497c6/ipad.png",
+                "originalName": "ipad.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/fbc521ce56d493172bb37f243b4d3e74/497c6/ipad.png 1x,\n/static/fbc521ce56d493172bb37f243b4d3e74/2a4de/ipad.png 1.5x,\n/static/fbc521ce56d493172bb37f243b4d3e74/ee604/ipad.png 2x"
+              }
+            }
+          },
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/1cc6fe6d85c3465f75360286a390ed2c/497c6/mouse.png",
+                "originalName": "mouse.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/1cc6fe6d85c3465f75360286a390ed2c/497c6/mouse.png 1x,\n/static/1cc6fe6d85c3465f75360286a390ed2c/2a4de/mouse.png 1.5x,\n/static/1cc6fe6d85c3465f75360286a390ed2c/ee604/mouse.png 2x"
+              }
+            }
+          },
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/ee03b79c4ae864c10d26cb52da4c0f9b/497c6/airpod.png",
+                "originalName": "airpod.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/ee03b79c4ae864c10d26cb52da4c0f9b/497c6/airpod.png 1x,\n/static/ee03b79c4ae864c10d26cb52da4c0f9b/2a4de/airpod.png 1.5x,\n/static/ee03b79c4ae864c10d26cb52da4c0f9b/ee604/airpod.png 2x"
+              }
+            }
+          },
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/f26a4e462b3e511f6f7129fddf26a90c/497c6/iphone.png",
+                "originalName": "iphone.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/f26a4e462b3e511f6f7129fddf26a90c/497c6/iphone.png 1x,\n/static/f26a4e462b3e511f6f7129fddf26a90c/2a4de/iphone.png 1.5x,\n/static/f26a4e462b3e511f6f7129fddf26a90c/ee604/iphone.png 2x"
+              }
+            }
+          },
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/80e1b384f8abf6f6d974be574148300a/497c6/watch.png",
+                "originalName": "watch.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/80e1b384f8abf6f6d974be574148300a/497c6/watch.png 1x,\n/static/80e1b384f8abf6f6d974be574148300a/2a4de/watch.png 1.5x,\n/static/80e1b384f8abf6f6d974be574148300a/ee604/watch.png 2x"
+              }
+            }
+          },
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/63bbea21f3f8657f83e28b6539a19f42/497c6/mac.png",
+                "originalName": "mac.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/63bbea21f3f8657f83e28b6539a19f42/497c6/mac.png 1x,\n/static/63bbea21f3f8657f83e28b6539a19f42/2a4de/mac.png 1.5x,\n/static/63bbea21f3f8657f83e28b6539a19f42/ee604/mac.png 2x"
+              }
+            }
+          },
+          {
+            "node": {
+              "fixed": {
+                "src": "/static/09784090d084c80417aa76c0f4be83a7/497c6/icon.png",
+                "originalName": "icon.png",
+                "width": 400,
+                "height": 400,
+                "srcSet": "/static/09784090d084c80417aa76c0f4be83a7/497c6/icon.png 1x,\n/static/09784090d084c80417aa76c0f4be83a7/2a4de/icon.png 1.5x,\n/static/09784090d084c80417aa76c0f4be83a7/ee604/icon.png 2x"
+              }
+            }
+          }
+        ]
+      },
+      "allDataJson": {
+        "edges": [
+          {
+            "node": {
+              "github": "https://github.com/ashutosh1919",
+              "behance": "https://www.behance.net/devsense19",
+              "dribble": "https://dribbble.com/ashutosh1919"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": []
+}

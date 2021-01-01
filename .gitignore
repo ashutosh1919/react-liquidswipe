@@ -7,7 +7,6 @@
 /node_modules
 /.pnp
 /build
-/public
 package-lock.json
 
 # User-specific files
