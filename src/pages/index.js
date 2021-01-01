@@ -1,7 +1,7 @@
 import * as React from "react";
 import { graphql } from "gatsby";
 import { LiquidSwipe } from "../components/liquidswipe";
-import { DevicePage } from "../components/DevicePage";
+import { DevicePage } from "../components/devicePage";
 import { Colors } from "../components/colors";
 
 export const query = graphql`
