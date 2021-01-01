@@ -1,5 +1,5 @@
-{
-  "0": {
+[
+  {
     "id": "watch",
     "title": "Apple Watch SE",
     "subtitle": "Heavy on features. Light in price.",
@@ -8,7 +8,7 @@
     "buttonLink": "https://www.apple.com/in/apple-watch-se/",
     "imageOriginalName": "watch.png"
   },
-  "1": {
+  {
     "id": "iphone",
     "title": "Apple iPhone 12",
     "subtitle": "Blast past fast.",
@@ -17,7 +17,7 @@
     "buttonLink": "https://www.apple.com/in/iphone-12/",
     "imageOriginalName": "iphone.png"
   },
-  "2": {
+  {
     "id": "ipad",
     "title": "Apple iPad Pro",
     "subtitle": "Magical piece of glass.",
@@ -26,7 +26,7 @@
     "buttonLink": "https://www.apple.com/in/ipad-pro/",
     "imageOriginalName": "ipad.png"
   },
-  "3": {
+  {
     "id": "mac",
     "title": "MacBook Pro",
     "subtitle": "Small chip. Giant leap.",
@@ -35,7 +35,7 @@
     "buttonLink": "https://www.apple.com/in/macbook-pro-13/",
     "imageOriginalName": "mac.png"
   },
-  "4": {
+  {
     "id": "mouse",
     "title": "Magic Mouse",
     "subtitle": "Small size. Amazing outcome.",
@@ -44,7 +44,7 @@
     "buttonLink": "https://www.apple.com/in/shop/product/MLA02ZM/A/magic-mouse-2-silver",
     "imageOriginalName": "mouse.png"
   },
-  "5": {
+ {
     "id": "airpod",
     "title": "Apple Airpods",
     "subtitle": "Magic runs in the family.",
@@ -53,4 +53,4 @@
     "buttonLink": "https://www.apple.com/in/airpods/",
     "imageOriginalName": "airpod.png"
   }
-}
+]

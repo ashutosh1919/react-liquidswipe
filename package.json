@@ -55,7 +55,6 @@
     }
   },
   "lint-staged": {
-    "*.json": "prettier-package-json --write",
-    "*.{js,css,md}": "prettier --write"
+    "*.{json,js,css,md}": "prettier --write"
   }
 }
