@@ -5,6 +5,8 @@
 <h1 align="center"> 🚀 React LiquidSwipe</h1> 
 <h3 align="center"> Very smooth component transition animation with liquid swipe effect. </h3>
 
+[![HitCount](http://hits.dwyl.com/ashutosh1919/react-liquidswipe.svg)](http://hits.dwyl.com/ashutosh1919/react-liquidswipe)
+
 <p align="center">
   <a href="http://hits.dwyl.com/ashutosh1919/react_liquidswipe"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/react_liquidswipe.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v12.18.3/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.18.3-important?style=flat-square" /></a>
