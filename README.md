@@ -115,7 +115,7 @@ However, if you are using this project and happy with it or just want to encoura
 - Starring and sharing the project 🚀
 - You can make one-time donations by clicking the buttons below. I'll probably buy an amazing workstation which will help me build more aggressively.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/devsense19) <a href="https://www.buymeacoffee.com/devsense19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: auto !important;" ></a>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/devsense19) <a href="https://www.buymeacoffee.com/devsense19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
 # Contributors ✨
 
