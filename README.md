@@ -5,10 +5,8 @@
 <h1 align="center"> 🚀 React LiquidSwipe</h1> 
 <h3 align="center"> Very smooth component transition animation with liquid swipe effect. </h3>
 
-[![HitCount](http://hits.dwyl.com/ashutosh1919/react-liquidswipe.svg)](http://hits.dwyl.com/ashutosh1919/react-liquidswipe)
-
 <p align="center">
-  <a href="http://hits.dwyl.com/ashutosh1919/react_liquidswipe"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/react_liquidswipe.svg" /></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashutosh1919%2Freact-liquidswipe&count_bg=%236BDF13&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <a href="https://nodejs.org/en/blog/release/v12.18.3/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.18.3-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.14.6"><img alt="NPM" src="https://img.shields.io/badge/npm-6.14.6-61DAFB?style=flat-square" /></a>
   <a href="https://www.gatsbyjs.com/"><img alt="Made With Gatsby" src="https://img.shields.io/badge/made%20with-gatsby-blueviolet?style=flat-square" /></a>
