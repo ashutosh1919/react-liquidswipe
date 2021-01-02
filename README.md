@@ -81,6 +81,7 @@ If you think that this documentation is not enough for you to understand, I have
 # Important Links 📑
 
 - [Github Repository - It contains the ReactJs implementation of LiquidSwipe](https://github.com/ashutosh1919/react-liquidswipe)
+- [YouTube Video - How it is built and how you can use it in your website](https://youtu.be/uGoWVz-q2M8)
 - [Behance Design](https://www.behance.net/gallery/110526825/Apple-Clay-Devices-Showcase-with-LiquidSwipe-Animation)
 - [Dribbble Shot](https://dribbble.com/shots/14856679-Apple-Clay-Devices-Showcase-with-LiquidSwipe-Animation)
 
