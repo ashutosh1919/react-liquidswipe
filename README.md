@@ -62,7 +62,7 @@ export const YourComponent = () => {
 
 As of now, the mass and tension of the animation drag is constant and is defined in `liquidswipe.js` file but it may be a changeable parameter in the future version.
 
-If you think that this documentation is not enough for you to understand, I have given other resources links in the `Important Links` section.
+If you think that this documentation is not enough for you to understand, I have given other resources links in the [`Important Links`](#important-links-) section.
 
 # Technologies Used 🛠️
 
