@@ -6,7 +6,7 @@
 <h3 align="center"> Very smooth component transition animation with liquid swipe effect. </h3>
 
 <p align="center">
-  <a href="http://hits.dwyl.com/ashutosh1919/react-liquidswipe"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/react-liquidswipe.svg" /></a>
+  <a href="http://hits.dwyl.com/ashutosh1919/react_liquidswipe"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/react_liquidswipe.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v12.18.3/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.18.3-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.14.6"><img alt="NPM" src="https://img.shields.io/badge/npm-6.14.6-61DAFB?style=flat-square" /></a>
   <a href="https://www.gatsbyjs.com/"><img alt="Made With Gatsby" src="https://img.shields.io/badge/made%20with-gatsby-blueviolet?style=flat-square" /></a>
@@ -115,7 +115,7 @@ However, if you are using this project and happy with it or just want to encoura
 - Starring and sharing the project 🚀
 - You can make one-time donations by clicking the buttons below. I'll probably buy an amazing workstation which will help me build more aggressively.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/devsense19) <a href="https://www.buymeacoffee.com/devsense19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/devsense19) <a href="https://www.buymeacoffee.com/devsense19" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="50px" ></a>
 
 # Contributors ✨
 
