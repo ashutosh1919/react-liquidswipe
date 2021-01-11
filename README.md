@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">Loved the project? Please consider <a href="https://www.paypal.com/paypalme/devsense19">donating</a> to help it improve!</p>
+<p align="center">If you want to discuss about something, then you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
 <p align="center"> 
     <a href="https://liquidswipe.netlify.app/" target="_blank">
