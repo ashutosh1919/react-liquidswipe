@@ -30,12 +30,11 @@ const PageDiv = styled.div`
 const StyledSVG = styled.svg`
   position: absolute;
   height: 100%;
+  width: 10px; //it makes the liquid swipe occuping less size, consequently making the UI under more accessable to interact.
 `;
 
 const PageContainer = styled.div`
-  position: absolute;
-  width: 100%;
-  height: 100%;
+  //it was creating a layer that was over the buttons.
 `;
 
 const StyledButton = styled(animated.button)`

@@ -20,7 +20,8 @@ export default function Button(props) {
           border: "1px solid " + primary,
           borderRadius: 20,
           backgroundColor: primary,
-          "@keyframes fadeInDivRev": {
+          //The animation was glitchy.
+          /*"@keyframes fadeInDivRev": {
             from: {
               backgroundColor: background,
             },
@@ -63,7 +64,7 @@ export default function Button(props) {
           },
           "&:hover #buttonText": {
             animation: "fadeInText 0.7s ease forwards",
-          },
+          },*/
         }}
       >
         <Styled.h5
