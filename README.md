@@ -129,6 +129,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ashutosh1919"><img src="https://avatars3.githubusercontent.com/u/20843596?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/ashutosh1919/react-liquidswipe/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/react-liquidswipe/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/Andre2553"><img src="https://avatars0.githubusercontent.com/u/40185436?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andre Rodrigues Lima</b></sub></a><br /><a href="https://github.com/ashutosh1919/react-liquidswipe/commits?author=Andre2553" title="Code">💻</a></td>
   </tr>
 </table>
 
