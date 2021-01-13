@@ -90,7 +90,6 @@ If you think that this documentation is not enough for you to understand, I have
 
 This project is still under development and has many issues with it. We have only achieved animation. We need to handle the side effects which it has generated. So, I would humbly suggest you not to use this animation in below cases.
 
-- SVG clip-path is the parent of everything, so we can only see the UI. We can't interact with it (Buttons and other UI elements will not be clickable).
 - The animation uses dynamic rendering. So, globally rendered background colors by any theming library (styled-components, emotion, theme-ui) will not work. You can use theming libraries for all purposes other than changing colors.
 - Currently it is not working in mobile and tablet screens since click is not available and tap animation code has to be added.
 
