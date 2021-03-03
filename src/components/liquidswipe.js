@@ -46,9 +46,12 @@ const StyledButton = styled(animated.button)`
   background: transparent;
   color: ${(props) => props.color};
   border: 1px solid ${(props) => props.color};
+  cursor: pointer;
+  touch-action: pan-y;
   &::focus {
     outline: 0;
   }
+  outline: none;
 `;
 
 const height = window.innerHeight;
@@ -119,39 +122,42 @@ const Page = ({ children, theme, index, setActive, gone = false }) => {
     }
   }, [gone]);
 
-  const bind = useDrag(({ down, movement: [mx], xy: [, my], vxvy: [vx] }) => {
-    if (!isGone) {
-      if (down && isMove) {
-        setDvalue({
-          d: getPath(my, mx + 60, 10),
-        });
-        setPos({
-          posX: mx + 20,
-          posY: my - 20,
-        });
-        if (mx > width / 2 || vx > 3) {
+  const bind = useDrag(
+    ({ down, movement: [mx], xy: [, my], vxvy: [vx] }) => {
+      if (!isGone) {
+        if (down && isMove) {
           setDvalue({
-            d: getPath(my, -50, w),
+            d: getPath(my, mx + 60, 10),
           });
-          setGone(true);
-          setTimeout(() => {
+          setPos({
+            posX: mx + 20,
+            posY: my - 20,
+          });
+          if (mx > width / 2 || vx > 3) {
             setDvalue({
-              d: getPath(my, 0, w),
+              d: getPath(my, -50, w),
             });
-            setActive(index);
-          }, 240);
+            setGone(true);
+            setTimeout(() => {
+              setDvalue({
+                d: getPath(my, 0, w),
+              });
+              setActive(index);
+            }, 240);
+          }
+        } else {
+          setDvalue({
+            d: getPath(height * 0.72, 48, 5),
+          });
+          setPos({
+            posX: 7,
+            posY: height * 0.72 - 20,
+          });
         }
-      } else {
-        setDvalue({
-          d: getPath(height * 0.72, 48, 5),
-        });
-        setPos({
-          posX: 7,
-          posY: height * 0.72 - 20,
-        });
       }
-    }
-  });
+    },
+    { useTouch: width <= 813 }
+  );
   return (
     <PageContainer id={`pageContainer${index}`} {...bind()}>
       <StyledSVG version="1.1" id="blob" xmlns="http://www.w3.org/2000/svg">
