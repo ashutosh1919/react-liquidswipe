@@ -156,9 +156,7 @@ const Page = ({ children, theme, index, setActive, gone = false }) => {
         }
       }
     },
-    {
-      useTouch: width <= 414,
-    }
+    { useTouch: width <= 813 }
   );
   return (
     <PageContainer id={`pageContainer${index}`} {...bind()}>
